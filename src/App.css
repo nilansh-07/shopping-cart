@@ -1,0 +1,23 @@
+*{
+    margin:0;
+}
+.header {
+    height:120px; background-color: dodgerblue;
+}
+
+.navbar {
+    height:40px; background-color: black;
+}
+.navbar ul {list-style-type: none;}
+.navbar ul li {float:left; padding: 5px 12px;}
+.navbar ul li a{color:white; font-size: 22px; text-decoration: none;}
+
+
+.content{
+    min-height: 550px;
+    background-color: none;
+}
+.footer {
+    height: 50px;
+    background-color: dodgerblue;
+}
